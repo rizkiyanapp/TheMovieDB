@@ -1,9 +1,11 @@
-package com.example.rizkiyanapp.themoviedb;
+package com.example.rizkiyanapp.themoviedb.controller;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.rizkiyanapp.themoviedb.R;
 
 public class SplashScreen extends AppCompatActivity {
 
